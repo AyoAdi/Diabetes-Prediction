@@ -4,7 +4,7 @@
 
 
 
-## Contributors:
+# Contributors:
 
 1. K Adithya Vyas
 2. Shakthi Shamruth D
