@@ -15,9 +15,19 @@ The dataset contains medical features such as glucose levels, BMI, and blood pre
 
 ## Installation
 To run this project locally, follow these steps:
--Clone this repository: git clone <repository-url> -cd <repository-folder>
--Install dependencies (if required): pip install -r requirements.txt
--Open the Jupyter Notebook: jupyter notebook
+-Clone this repository: 
+```
+git clone <repository-url> -cd <repository-folder>
+
+```
+-Install dependencies: 
+```
+pip install -r requirements.txt
+```
+-Open the Jupyter Notebook: 
+```
+jupyter notebook
+```
 -Then, open Diabetes-Prediction-Notebook.ipynb and run the cells.
 -Run the notebook to preprocess the data, train the model, and evaluate performance.
 
