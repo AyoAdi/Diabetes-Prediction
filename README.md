@@ -29,6 +29,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 -Then, open Diabetes-Prediction-Notebook.ipynb and run the cells.
+
 -Run the notebook to preprocess the data, train the model, and evaluate performance.
 
 Some Future Improvements we would like to do
