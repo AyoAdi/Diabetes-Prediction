@@ -33,8 +33,11 @@ jupyter notebook
 -Run the notebook to preprocess the data, train the model, and evaluate performance.
 
 Some Future Improvements we would like to do
+
 -Implement more advanced models such as deep learning.
+
 -Add hyperparameter tuning.
+
 -Deploy the model as a web application.
 
 ---
