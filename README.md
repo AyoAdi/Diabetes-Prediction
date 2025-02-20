@@ -18,7 +18,6 @@ To run this project locally, follow these steps:
 -Clone this repository: 
 ```
 git clone <repository-url> -cd <repository-folder>
-
 ```
 -Install dependencies: 
 ```
