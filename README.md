@@ -20,10 +20,6 @@ To run this project locally, follow these steps:
 ```
 git clone <repository-url> -cd <repository-folder>
 ```
--Install dependencies: 
-```
-pip install -r requirements.txt
-```
 -Open the Jupyter Notebook: 
 ```
 jupyter notebook
