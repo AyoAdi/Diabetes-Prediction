@@ -7,9 +7,9 @@
 This project aims to predict diabetes using machine learning techniques. It includes a Jupyter Notebook for training and evaluating a model and a dataset containing relevant medical features.
 
 ## Files in This Repository:
-Diabetes-Prediction-Notebook.ipynb: A Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
+-Diabetes-Prediction-Notebook.ipynb: A Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
 
-Diabetes.csv: The dataset used for training and testing the model.
+-Diabetes.csv: The dataset used for training and testing the model.
 
 ## Dataset Details
 The dataset contains medical features such as glucose levels, BMI, and blood pressure, which are used to predict whether a person has diabetes or not.
