@@ -8,6 +8,7 @@ This project aims to predict diabetes using machine learning techniques. It incl
 
 ## Files in This Repository:
 Diabetes-Prediction-Notebook.ipynb: A Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
+
 Diabetes.csv: The dataset used for training and testing the model.
 
 ## Dataset Details
